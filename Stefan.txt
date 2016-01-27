@@ -1,3 +1,5 @@
 1. Stefan Vlahov
 
 2. I’m looking to gain a basic understanding of Ruby as a first step toward a career change. 
+
+3. Currently I work as an AWS Coordinator at McDonald’s Corp. 
