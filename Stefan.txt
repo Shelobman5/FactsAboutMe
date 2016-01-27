@@ -1,9 +1,9 @@
-1. Stefan
+Name: Stefan
 
-2. I’m looking to gain a basic understanding of Ruby as a first step toward a career change. 
+Class Goal: I’m looking to gain a basic understanding of Ruby as a first step toward a career change. 
 
-3. Currently I work as an AWS Coordinator at McDonald’s Corp. 
+Occupation: Currently I work as an AWS Coordinator at McDonald’s Corp. 
 
-4. I want to live in New Zealand!
+Fun Fact: I want to live in New Zealand!
 
-5. I want to make an app that collects all physical test results, health records, etc in a single place for easy access by patient, doctors, insurance companies, etc. 
+App Idea: I want to make an app that collects all physical test results, health records, etc in a single place for easy access by patient, doctors, insurance companies, etc. 
